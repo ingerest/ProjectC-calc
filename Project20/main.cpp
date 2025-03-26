@@ -3,10 +3,11 @@
 class Cal
 {
 public:
-	//юл╟В©║ а╕юш
+	//ц─ц▄б╟ц╥б©б║ ц│б╕ц─ц⌡
+	int getGop(int a, int b){return a*b;}
 };
 
-//евди цъ╟║
+//ц┘ц≈ц└ц┴ ц┐ц÷б╟б║
 TEST(t1, t2)
 {
 	EXPECT_EQ(1, 1);
